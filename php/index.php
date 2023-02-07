@@ -11,7 +11,7 @@ else
 <!doctype html>
 <html lang="en">
 <head>
-    <meta charset="">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>PHP Application - AWS Elastic Beanstalk</title>
     <meta name="viewport" content="width=device-width">
